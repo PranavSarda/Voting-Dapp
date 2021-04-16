@@ -1,6 +1,5 @@
-# Boilerplate with Truffle and webpack for dApps built on Ethereum
+# Decentralized Voting WebApp
 
-This boilerplate was made for this [blog post](https://medium.freecodecamp.org/developing-an-ethereum-decentralized-voting-application-a99de24992d9).
 ### Dependencies:
 - [Nodejs 5.0+](https://nodejs.org/en/)
 - [Truffle](https://github.com/trufflesuite/truffle)
@@ -9,9 +8,10 @@ This boilerplate was made for this [blog post](https://medium.freecodecamp.org/d
 ## Setup
 ```
 npm install -g truffle
-git clone https://github.com/tko22/truffle-webpack-boilerplate.git
-cd truffle-webpack-boilerplate
+git clone https://github.com/PranavSarda/Voting-Dapp.git
+cd Voting-Dapp
 npm install
 npm run dev
 ```
-
+<hr>
+Template from https://github.com/tko22/truffle-webpack-boilerplate
